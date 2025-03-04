@@ -1,41 +1,52 @@
-# Website
+# Art Konkur | آرت کنکور 🎨
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[![Semantic Release](https://github.com/art-konkur/art-konkur.github.io/actions/workflows/release.yml/badge.svg)](https://github.com/art-konkur/art-konkur.github.io/actions/workflows/release.yml)
 
-### Installation
+## About | درباره پروژه
 
-```
-$ yarn
-```
+🇬🇧 Art Konkur is an open-source platform dedicated to helping students prepare for art entrance exams in Iran.
 
-### Local Development
+🇮🇷 آرت کنکور یک پلتفرم متن‌باز برای کمک به دانش‌آموزان در آمادگی برای کنکور هنر است.
 
-```
-$ yarn start
-```
+## Features | امکانات
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- 🎨 Practice Tests | تمرین‌های آزمایشی
+- 📚 Study Resources | منابع مطالعاتی
+- 🎯 Progress Tracking | پیگیری پیشرفت
+- 👥 Community Support | پشتیبانی جامعه کاربری
 
-### Build
+## Getting Started | شروع به کار
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+🇬🇧 To get started with this project:
+```bash
+git clone https://github.com/art-konkur/art-konkur.github.io.git
+cd art-konkur.github.io
+npm install
+npm start
 ```
 
-Not using SSH:
-
+🇮🇷 برای شروع کار با پروژه:
+```bash
+git clone https://github.com/art-konkur/art-konkur.github.io.git
+cd art-konkur.github.io
+npm install
+npm start
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## Contributing | مشارکت
+
+🇬🇧 Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting your contributions.
+
+🇮🇷 لطفاً پیش از مشارکت، [راهنمای مشارکت](CONTRIBUTING.md) را مطالعه کنید.
+
+## Security | امنیت
+
+🇬🇧 For security issues, please refer to our [Security Policy](.github/SECURITY.md).
+
+🇮🇷 برای مسائل امنیتی، لطفاً به [سیاست امنیتی](.github/SECURITY.md) مراجعه کنید.
+
+## License | مجوز
+
+🇬🇧 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+🇮🇷 این پروژه تحت مجوز MIT منتشر شده است - برای جزئیات بیشتر [فایل مجوز](LICENSE) را مطالعه کنید.
