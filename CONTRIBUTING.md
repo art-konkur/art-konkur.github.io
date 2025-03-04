@@ -17,6 +17,7 @@ npm install
 ### Commit Guidelines | راهنمای کامیت
 
 🇬🇧 We follow conventional commits:
+
 - `feat:` New features
 - `fix:` Bug fixes
 - `docs:` Documentation
@@ -26,6 +27,7 @@ npm install
 - `chore:` Maintenance
 
 🇮🇷 ما از کامیت‌های متعارف پیروی می‌کنیم:
+
 - `feat:` قابلیت‌های جدید
 - `fix:` رفع باگ‌ها
 - `docs:` مستندات
@@ -38,18 +40,21 @@ npm install
 
 1. 🇬🇧 Create a new branch
    🇮🇷 یک شاخه جدید بسازید
+
    ```bash
    git checkout -b feature/your-feature
    ```
 
 2. 🇬🇧 Make your changes and commit them
    🇮🇷 تغییرات خود را اعمال و کامیت کنید
+
    ```bash
    git commit -m "feat: add new feature"
    ```
 
 3. 🇬🇧 Push to your fork and submit a pull request
    🇮🇷 تغییرات را push کنید و یک pull request بسازید
+
    ```bash
    git push origin feature/your-feature
    ```
